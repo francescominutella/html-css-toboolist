@@ -1,0 +1,16 @@
+
+body{
+    background-color: #e8e9ea;
+    margin: auto
+
+}
+/*Header*/
+.bg_logo{
+    background-color: #ffffff;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.title{
+    display: inline-block;
+    font-size: 30px;
+}

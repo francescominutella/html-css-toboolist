@@ -27,13 +27,14 @@ body{
     width: 500px;
     height: 1000px;
     margin-top: 50px;
-    padding-top: 10px;
+    padding-top: 20px;
     padding-left: 40px;
     background-color: #ffffff;
 }
-
+.sect{
+    margin-top: 40px;
+}
 .addtask{
-    margin-top: 15px;
     height: 20px;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
@@ -43,4 +44,4 @@ body{
     border-color: #43aae9;
     color: white;
 }
-.newtask
+

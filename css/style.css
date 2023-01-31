@@ -36,6 +36,7 @@ body{
     margin-top: 40px;
 }
 .list{
+    margin-top: 10px;
     margin-bottom: 20px;
 }
 /*color button*/
@@ -77,5 +78,25 @@ body{
     border-bottom-right-radius: 5px;
     background-color: #ff9900;
     border-color: #ff9900;
+    color: white;
+}
+.addtask.magenta{
+    height: 20px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    background-color: #fa0577;
+    border-color: #fa0577;
+    color: white;
+}
+.addtask.greenbeen{
+    height: 20px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    background-color: #98fa05;
+    border-color: #98fa05;
     color: white;
 }

@@ -31,10 +31,15 @@ body{
     padding-left: 40px;
     background-color: #ffffff;
 }
+/*Main utility*/
 .sect{
     margin-top: 40px;
 }
-.addtask{
+.list{
+    margin-bottom: 20px;
+}
+/*color button*/
+.addtask.blue{
     height: 20px;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
@@ -44,4 +49,33 @@ body{
     border-color: #43aae9;
     color: white;
 }
-
+.addtask.purple{
+    height: 20px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    background-color: #9330d5;
+    border-color: #9330d5;
+    color: white;
+}
+.addtask.green{
+    height: 20px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    background-color: #3bad63;
+    border-color: #3bad63;
+    color: white;
+}
+.addtask.orange{
+    height: 20px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    background-color: #ff9900;
+    border-color: #ff9900;
+    color: white;
+}

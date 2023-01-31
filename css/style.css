@@ -1,16 +1,33 @@
-
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 body{
     background-color: #e8e9ea;
-    margin: auto
-
+    margin: 0;
 }
+
 /*Header*/
 .bg_logo{
     background-color: #ffffff;
     margin-top: auto;
     margin-bottom: auto;
 }
+
 .title{
+    margin: auto;
     display: inline-block;
     font-size: 30px;
+}
+
+/*Main*/
+#app_main{
+    margin-left: 25%;
+}
+
+.task_bot{
+    background-color: #ffffff;
+    margin-top: 60px;
+    height: 50px;
 }

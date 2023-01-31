@@ -23,23 +23,18 @@ body{
 
 /*Main*/
 #app_main{
-    margin-left: 25%;
+    margin: 300px;
+    width: 500px;
+    height: 1000px;
+    margin-top: 50px;
+    padding-top: 10px;
+    padding-left: 40px;
+    background-color: #ffffff;
 }
 
-.barr_botton{
-    background-color: #ffffff;
-    margin-top: 60px;
-    height: 50px;
-}
-
-.space_list{
-    background-color: #ffffff;
-    margin-top: 2px;
-    height: 500px;
-}
 .addtask{
     margin-top: 15px;
-    margin-left: 50px;
+    height: 20px;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
     border-bottom-left-radius: 5px;
@@ -48,3 +43,4 @@ body{
     border-color: #43aae9;
     color: white;
 }
+.newtask
